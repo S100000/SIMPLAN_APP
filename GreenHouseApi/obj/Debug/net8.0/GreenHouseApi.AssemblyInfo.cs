@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenHouseApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+717a199f04457e1841c487dfe7d0fb095cfedd8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenHouseApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenHouseApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
