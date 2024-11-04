@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\José\\Desktop\\SIMPLAN_APP\\SIMPLAN_APP\\GreenHouseAPi\\GreenHouseApi.csproj": {}
+    "C:\\Users\\José\\Desktop\\SIMPLAN_APP\\SIMPLAN_APP\\GreenHouseApi\\GreenHouseApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\José\\Desktop\\SIMPLAN_APP\\SIMPLAN_APP\\GreenHouseAPi\\GreenHouseApi.csproj": {
+    "C:\\Users\\José\\Desktop\\SIMPLAN_APP\\SIMPLAN_APP\\GreenHouseApi\\GreenHouseApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\José\\Desktop\\SIMPLAN_APP\\SIMPLAN_APP\\GreenHouseAPi\\GreenHouseApi.csproj",
+        "projectUniqueName": "C:\\Users\\José\\Desktop\\SIMPLAN_APP\\SIMPLAN_APP\\GreenHouseApi\\GreenHouseApi.csproj",
         "projectName": "GreenHouseApi",
-        "projectPath": "C:\\Users\\José\\Desktop\\SIMPLAN_APP\\SIMPLAN_APP\\GreenHouseAPi\\GreenHouseApi.csproj",
+        "projectPath": "C:\\Users\\José\\Desktop\\SIMPLAN_APP\\SIMPLAN_APP\\GreenHouseApi\\GreenHouseApi.csproj",
         "packagesPath": "C:\\Users\\José\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\José\\Desktop\\SIMPLAN_APP\\SIMPLAN_APP\\GreenHouseAPi\\obj\\",
+        "outputPath": "C:\\Users\\José\\Desktop\\SIMPLAN_APP\\SIMPLAN_APP\\GreenHouseApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,6 +14,8 @@ builder.Services.AddControllers();
 
 var app = builder.Build();
 
+app.Urls.Add("http://192.168.38.51:5000");
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
